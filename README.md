@@ -48,8 +48,6 @@ Size hasn't helped the SVF funds. Deploying a large corpus has meant the necessi
 
 * [Blockchain Applications in Banking](https://www2.deloitte.com/mt/en/pages/financial-services/articles/mt-blockchain-applications-in-banking.html)
 
-* [RBC Blockchain](https://www.reuters.com/article/us-rbc-blockchain-idUSKCN1C237N)
-
 * [Data source](https://howindialives.com)
 
 * [Mint](https://www.livemint.com/companies/news/softbank-funds-have-a-long-road-to-redemption-11660664908477.html)
