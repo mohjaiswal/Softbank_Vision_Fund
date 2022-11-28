@@ -28,7 +28,7 @@ The myth of big checks meant big money was not one endorsed at SVF, the big cheq
 
 ![Image](Figures1.1-1.3.jpg)
 
-Just looking at SVF 1, the elder more mature of the two is down about 26% on its investment cost of $32.5 billion. In 10 of these, SVF 1 invested at least $1 billion, including Indian company Paytm. As of June 2022, in just four of these 10 companies was SVF 1 in the money. And its loss in just one company, DiDi Global, exceeded the gains made elsewhere.
+Just looking at SVF 1, the elder more mature of the two is down about 26% on its investment cost of $32.5 billion. In 10 of these, SVF 1 invested at least $1 billion, including Indian company Paytm. As of June 2022, in just four of these 10 companies was SVF 1 in the money. And its loss in just one company, DiDi Global, exceeded the gains made ~~elsewhere~~ by the aformentioned 4.
 
 Note: that SoftBank follows an April to March financial year (Figure 1.3)
 
