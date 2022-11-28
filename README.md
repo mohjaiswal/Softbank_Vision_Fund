@@ -39,14 +39,12 @@ Note: that SoftBank follows an April to March financial year (Figure 1.3)
 
 As they try to recover reputation and performance, the two SVFs need sentiment in public markets to look up. They have deployed their capital. They need investee companies to use this capital to deliver high rates of business growth and profits. And, at some point, they would want to monetize their investments. An essential outlet for that monetization is listing on the stock market, either through initial public offerings (IPOs) or by taking the special purpose acquisition companies (SPACS) route, where an investee company acquires a listed company.
 
-Of the 42 public listings of SVF companies, 28 were IPOs and 14 were SPACs. Much of these happened in 2021. In 2022, however, public markets across the world have gone cold. Central banks, led by the American one, have tightened the flow of funds. In the first six months of 2022, the number of IPOs in major markets are presently on course to trail the 2021 count by a big margin.
+Of the 42 public listings of SVF companies, 28 were IPOs and 14 were SPACs. Much of these happened in 2021. In 2022, however, public markets across the world have gone cold. Central banks, led by the American one, have tightened the flow of funds. In a simpler manner of speaking, the current atmosphere has triggered a multiple round injection of interest rate hikes. In the first six months of 2022, the number of IPOs in major markets are presently on course to trail the 2021 count by a big margin.
 
 Size hasn't helped the SVF funds. Deploying a large corpus has meant the necessity to write big cheques. The unicorns these big cheques were written out for are now facing headwinds in this economy. Son plans on radical changes in not just their investment approach but personnel and cost structures.
 
 ## Resources
-* [Crunchbase](https://www.bbc.com/storyworks/banking-on-innovation/blockchain)
-
-* [Blockchain Applications in Banking](https://www2.deloitte.com/mt/en/pages/financial-services/articles/mt-blockchain-applications-in-banking.html)
+* [Crunchbase](https://www.crunchbase.com/organization/softbank-vision-fund/investor_financials)
 
 * [Data source](https://howindialives.com)
 
