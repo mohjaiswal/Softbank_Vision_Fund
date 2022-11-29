@@ -44,6 +44,11 @@ Of the 42 public listings of SVF companies, 28 were IPOs and 14 were SPACs. Much
 Size hasn't helped the SVF funds. Deploying a large corpus has meant the necessity to write big cheques. The unicorns these big cheques were written out for are now facing headwinds in this economy. Son plans on radical changes in not just their investment approach but personnel and cost structures.
 
 ## Resources
+
+* [Good introduction to SVF parent Softbank Co.] (https://www.barrons.com/articles/softbank-stock-has-rallied-why-the-shares-are-still-worth-buying-51598053230
+
+* [Up to Speed] (https://www.barrons.com/articles/softbank-shares-slide-51668458167?mod=Searchresults)
+
 * [Crunchbase](https://www.crunchbase.com/organization/softbank-vision-fund/investor_financials)
 
 * [Data source](https://howindialives.com)
