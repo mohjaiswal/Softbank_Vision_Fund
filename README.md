@@ -45,9 +45,9 @@ Size hasn't helped the SVF funds. Deploying a large corpus has meant the necessi
 
 ## Resources
 
-* [Good introduction to SVF parent Softbank Co.] (https://www.barrons.com/articles/softbank-stock-has-rallied-why-the-shares-are-still-worth-buying-51598053230
+* [Good introduction to SVF parent Softbank Co.](https://www.barrons.com/articles/softbank-stock-has-rallied-why-the-shares-are-still-worth-buying-51598053230
 
-* [Up to Speed] (https://www.barrons.com/articles/softbank-shares-slide-51668458167?mod=Searchresults)
+* [Up to Speed](https://www.barrons.com/articles/softbank-shares-slide-51668458167?mod=Searchresults)
 
 * [Crunchbase](https://www.crunchbase.com/organization/softbank-vision-fund/investor_financials)
 
