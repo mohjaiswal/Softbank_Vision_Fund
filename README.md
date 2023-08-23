@@ -49,6 +49,11 @@ Size hasn't helped the SVF funds. Deploying a large corpus has meant the necessi
 
 * [Up to Speed](https://www.barrons.com/articles/softbank-shares-slide-51668458167?mod=Searchresults)
 
+## Legal Disclaimer: 
+
+### This analysis is for educational and research purposes only. It is not intended to provide financial or investment advice. Please be cautious and conduct thorough research before making any investment decisions. The owner of this repository is not liable for any actions taken based on the information provided. The findings and conclusions in this repository should not be considered as a substitute for professional advice.
+
+
 * [Crunchbase](https://www.crunchbase.com/organization/softbank-vision-fund/investor_financials)
 
 * [Data source](https://howindialives.com)
