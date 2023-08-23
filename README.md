@@ -11,11 +11,11 @@ intelligence (AI), robotics, communications infrastructure, telecoms, computatio
 
 #### SoftBank Vision Fund 1 
 
-The inaugural fund was launched in 2017 with SoftBank being an anchor investor alongise West Asia and tech giants like Apple also participating in a $100 billion corpus focused on cutting the big cheques and dominating with late-stage investing stratergies. This while being an aggresive stratergy for expansion, faced challenges with fund deployment and exiting investments.
+The inaugural fund was launched in 2017 with SoftBank being an anchor investor alongside West Asia and tech giants like Apple also participating in a $100 billion corpus focused on cutting the big cheques and dominating with late-stage investing stratergies. This while being an aggresive stratergy for expansion, faced challenges with fund deployment and exiting investments.
 
 #### SoftBank Vision Fund 2
 
-Masayoshi Son, the head if the SoftBank group was eager to launch SVF 2 in 2019, two years after the inception of SVF 1. This time the fund was about 40% the size of SVF 1. The key differentiatior was in the concentration of investments, SVF2  was sparsely scattered at 3x the number of investments as compared to SVF1.
+Masayoshi Son, the head of the SoftBank group was eager to launch SVF 2 in 2019, two years after the inception of SVF 1. This time the fund was about 40% the size of SVF 1. The key differentiatior was in the concentration of investments, SVF2  was sparsely scattered at 3x the number of investments as compared to SVF1.
 
 ### Why this matters
 
@@ -59,3 +59,7 @@ Size hasn't helped the SVF funds. Deploying a large corpus has meant the necessi
 * [Data source](https://howindialives.com)
 
 * [Mint](https://www.livemint.com/companies/news/softbank-funds-have-a-long-road-to-redemption-11660664908477.html)
+
+## Legal Disclaimer: 
+
+### This analysis is for educational and research purposes only. It is not intended to provide financial or investment advice. Please be cautious and conduct thorough research before making any investment decisions. The owner of this repository is not liable for any actions taken based on the information provided. The findings and conclusions in this repository should not be considered as a substitute for professional advice.
