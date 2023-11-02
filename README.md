@@ -1,6 +1,6 @@
 ![Image](HeaderPhoto.jpg)
-# Does the SoftBank Vision Fund need an eye doctor in 2022?
-###### Moh Jaiswal, Research Analyst
+# SoftBank Vision Fund in 2022?
+#### Moh Jaiswal, Research Analyst
 ---
 ## Who is SoftBank Vision Fund?
 ### One of the boldest riders in technology investing that specializes in growth capital and social impact investments has posted a $7.2 billion quarterly loss last week.
