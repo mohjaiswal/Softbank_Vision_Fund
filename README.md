@@ -1,65 +1,48 @@
 ![Image](HeaderPhoto.jpg)
+
 # SoftBank Vision Fund in 2022?
-#### Moh Jaiswal, Research Analyst
+#### By Moh Jaiswal, Research Analyst
+
 ---
+
 ## Who is SoftBank Vision Fund?
-### One of the boldest riders in technology investing that specializes in growth capital and social impact investments has posted a $7.2 billion quarterly loss last week.
+### A leading name in technology investing, SoftBank Vision Fund, known for its growth capital and social impact investments, recently reported a significant quarterly loss of $7.2 billion.
+
 ---
-### What is SoftBank Vision Fund 1 and 2?    
-The SoftBank Group subsidiary invests in internet-of-things, artificial 
-intelligence (AI), robotics, communications infrastructure, telecoms, computational biology, biotech, cloud technologies and software, consumer e-commerce, fintechs, and apps. It aims to invest "in businesses and foundational platforms that SoftBank believes to revolutionize and innovate the world tomorrow." 
+
+### Overview of SoftBank Vision Fund 1 and 2
+SoftBank Vision Fund, a subsidiary of the SoftBank Group, is a key investor in various sectors including internet-of-things, artificial intelligence, robotics, communications, computational biology, cloud technologies, e-commerce, fintechs, and more. The goal is to invest in businesses and platforms believed to revolutionize tomorrow's world.
 
 #### SoftBank Vision Fund 1 
-
-The inaugural fund was launched in 2017 with SoftBank being an anchor investor alongside West Asia and tech giants like Apple also participating in a $100 billion corpus focused on cutting the big cheques and dominating with late-stage investing stratergies. This while being an aggresive stratergy for expansion, faced challenges with fund deployment and exiting investments.
+Launched in 2017 with a massive $100 billion corpus, it saw SoftBank as an anchor investor alongside major players from West Asia and tech giants like Apple. The fund adopted an aggressive late-stage investing strategy, although it faced challenges in fund deployment and exits.
 
 #### SoftBank Vision Fund 2
+In 2019, Masayoshi Son launched SVF 2, which was about 40% the size of its predecessor. The distinct approach of SVF 2 involved a higher number of investments but with less concentration in each, differing significantly from SVF 1.
 
-Masayoshi Son, the head of the SoftBank group was eager to launch SVF 2 in 2019, two years after the inception of SVF 1. This time the fund was about 40% the size of SVF 1. The key differentiatior was in the concentration of investments, SVF2  was sparsely scattered at 3x the number of investments as compared to SVF1.
+### The Current Scenario
+Both funds are currently underperforming. Amidst a general downturn in public markets, a significant portion of the 349 companies invested in by these funds were downgraded last quarter. This decline, primarily in private companies, highlights potential overestimations in performance and valuations.
 
-### Why this matters
+The strategy of issuing large checks under the assumption of mature valuations has not yielded the short-term gains anticipated, leaving the funds vulnerable to market corrections.
 
-Both the above funds are in the red. While the general aura of the public markets is bleak. Of the 349 companies invested between the two funds, 80% were downgraded in the previous quarter. Most of these were private companies, the market saw this as an error in overestimating performance and therefore valuations.
-
-
-The myth of big checks meant big money was not one endorsed at SVF, the big cheques were cut under the agreement of mature valuations, the short term gains were shorter than sweeter, leaving SVF unproteced against market corrections in the longer run, the short term gains were not cushion enough to break the fall. 
-
-## Results
+## Analyzing the Results
 
 ![Image](Figures1.1-1.3.jpg)
 
-Just looking at SVF 1, the elder more mature of the two is down about 26% on its investment cost of $32.5 billion. In 10 of these, SVF 1 invested at least $1 billion, including Indian company Paytm. As of June 2022, in just four of these 10 companies was SVF 1 in the money. And its loss in just one company, DiDi Global, exceeded the gains made ~~elsewhere~~ by the aformentioned 4.
+A closer look at SVF 1 shows a 26% decrease on its $32.5 billion investment cost. Despite significant investments in companies like Paytm, only a few have proved profitable for SVF 1. The losses in some investments, like DiDi Global, have been substantial, overshadowing gains in others.
 
-Note: that SoftBank follows an April to March financial year (Figure 1.3)
+Note: SoftBank's financial year runs from April to March (as shown in Figure 1.3).
 
-
-## Why This May be Interesting
+## Why This Matters
 
 ![Image](Logo.jpg)
 
-As they try to recover reputation and performance, the two SVFs need sentiment in public markets to look up. They have deployed their capital. They need investee companies to use this capital to deliver high rates of business growth and profits. And, at some point, they would want to monetize their investments. An essential outlet for that monetization is listing on the stock market, either through initial public offerings (IPOs) or by taking the special purpose acquisition companies (SPACS) route, where an investee company acquires a listed company.
+As SoftBank Vision Funds strive to recover their reputation and performance, they are dependent on an upturn in public market sentiments. Their success hinges on the business growth and profitability of their investee companies and the potential monetization of these investments through stock market listings, either via IPOs or SPACs.
 
-Of the 42 public listings of SVF companies, 28 were IPOs and 14 were SPACs. Much of these happened in 2021. In 2022, however, public markets across the world have gone cold. Central banks, led by the American one, have tightened the flow of funds. In a simpler manner of speaking, the current atmosphere has triggered a multiple round injection of interest rate hikes. In the first six months of 2022, the number of IPOs in major markets are presently on course to trail the 2021 count by a big margin.
+Of the 42 public listings from SVF companies, most were in 2021, with a mix of IPOs and SPACs. However, the current economic climate, marked by interest rate hikes and tightened fund flows, poses challenges, especially for the large-scale investments made by the funds.
 
-Size hasn't helped the SVF funds. Deploying a large corpus has meant the necessity to write big cheques. The unicorns these big cheques were written out for are now facing headwinds in this economy. Son plans on radical changes in not just their investment approach but personnel and cost structures.
+## Looking Ahead
 
-## Resources
+Masayoshi Son is contemplating radical changes, not just in investment strategies but also in personnel and cost structures, to navigate through these challenging economic times.
 
-* [Good introduction to SVF parent Softbank Co.](https://www.barrons.com/articles/softbank-stock-has-rallied-why-the-shares-are-still-worth-buying-51598053230)
-
-* [Up to Speed](https://www.barrons.com/articles/softbank-shares-slide-51668458167?mod=Searchresults)
-
-## Legal Disclaimer: 
-
-### This analysis is for educational and research purposes only. It is not intended to provide financial or investment advice. Please be cautious and conduct thorough research before making any investment decisions. The owner of this repository is not liable for any actions taken based on the information provided. The findings and conclusions in this repository should not be considered as a substitute for professional advice.
-
-
-* [Crunchbase](https://www.crunchbase.com/organization/softbank-vision-fund/investor_financials)
-
-* [Data source](https://howindialives.com)
-
-* [Mint](https://www.livemint.com/companies/news/softbank-funds-have-a-long-road-to-redemption-11660664908477.html)
-
-## Legal Disclaimer: 
-
-### This analysis is for educational and research purposes only. It is not intended to provide financial or investment advice. Please be cautious and conduct thorough research before making any investment decisions. The owner of this repository is not liable for any actions taken based on the information provided. The findings and conclusions in this repository should not be considered as a substitute for professional advice.
+## Additional Resources
+![More on Softbank Vision Fund](https://www.livemint.com/topic/softbank-vision-fund)
