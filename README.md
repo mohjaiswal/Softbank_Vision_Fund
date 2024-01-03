@@ -45,4 +45,4 @@ Of the 42 public listings from SVF companies, most were in 2021, with a mix of I
 Masayoshi Son is contemplating radical changes, not just in investment strategies but also in personnel and cost structures, to navigate through these challenging economic times.
 
 ## Additional Resources
-![More on Softbank Vision Fund](https://www.livemint.com/topic/softbank-vision-fund)
+[More on Softbank Vision Fund](https://www.livemint.com/topic/softbank-vision-fund)
