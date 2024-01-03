@@ -1,7 +1,7 @@
 ![Image](HeaderPhoto.jpg)
 
 # SoftBank Vision Fund in 2022?
-#### By Moh Jaiswal, Research Analyst
+#### By Moh Jaiswal
 
 ---
 
